@@ -1,4 +1,5 @@
 # Nytrw-Browser
+![logo](Docs/logo.png)
 A browser made with the Nytrw search engine
 
 ## Building
